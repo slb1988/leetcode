@@ -1,0 +1,3 @@
+# leetcode
+
+Just for fun.
